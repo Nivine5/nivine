@@ -1,0 +1,46 @@
+
+.App {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling for headings */
+  h1 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  /* Styling for input fields and labels */
+  div label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  div input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Styling for the result section */
+  .result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .result p {
+    margin: 8px 0;
+  }
+  
